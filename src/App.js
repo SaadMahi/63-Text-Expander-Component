@@ -11,7 +11,7 @@ function App() {
         are constantly venturing out into the cosmos to uncover its secrets and
         push the boundaries of what's possible.
       </TextExpander>
-
+      <hr />
       <TextExpander
         collapsedNumWords={20}
         expandButtonText='Show text'
